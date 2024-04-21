@@ -1,0 +1,9 @@
+model:
+  name: 'Model1'
+data: 
+  name: 'mnist'
+model_kwargs:
+  input_size: 10
+  output_size: 4
+train_fn:
+  name: 'train_fn1'
